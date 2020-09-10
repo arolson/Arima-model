@@ -1,8 +1,6 @@
 from pyoanda import Client, PRACTICE
 from pmdarima.arima import ARIMA, auto_arima
 from datetime import timedelta
-import matplotlib.pyplot as plt
-import matplotlib.mlab as mlab
 import datetime as dt
 import pandas as pd
 import numpy as np
